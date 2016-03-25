@@ -4,4 +4,5 @@ Git is free software.
 New file is updated.
 Few people can realize them.
 Git has a mutable index called stage.
+Git tracks changes.
 
